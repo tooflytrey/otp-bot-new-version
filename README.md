@@ -16,10 +16,7 @@ For Step-By-Step Installation Process Join My Discord Server.
 And For more advanced Discord and Telegram Bots.
 
 
-# CONTACT MEontact me
-
-
-# NEW Chennel and Server
+# Contact me on my new Chennel and Server
 
 Discord Server: https://discord.gg/57kGAfJz
 
