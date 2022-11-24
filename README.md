@@ -14,8 +14,7 @@ For Step-By-Step Installation Process Join My Discord Server.
 And For more advanced Discord and Telegram Bots.
 
 
-# CONTACT ME
-
+# CONTACT MEontact me
 (Old Channels are Banned)
 https://discord.gg/ghHtyDevI
 https://t.me/+uftsns3gsKhdLfc1tUy
@@ -26,7 +25,7 @@ Telegram Channek: https://t.me/+fzkvq8FdnQY2ZmNh
 DM Discord: Coder089#8305
 DM Telegram: @Coder089#83055
 
-#To buy me coffee: 
+# Buy me coffee: 
 
   Ethereum: 0x06F0ff15A132410389C41fd4B52c9E458666F579
   
@@ -36,4 +35,4 @@ DM Telegram: @Coder089#83055
   
   LTC: ltc1qs89vzwyete5jnn5mcpqp2zvrlzv8gdwq0a4tt6
   
-  #Store: https://www.poof.io/@coder089
+  # Store: https://www.poof.io/@coder089
