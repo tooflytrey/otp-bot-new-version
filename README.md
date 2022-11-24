@@ -9,7 +9,7 @@ See the bot in action at: https://ibb.co/t3VGqGv
 
 Just send command: "/dial" to start grabbing yout OTP.
 
-#THIS SORCE CODE IS FREE AND FOR EDUCATION PURPOSE ONLY.
+# THIS SORCE CODE IS FREE AND FOR EDUCATION PURPOSE ONLY.
 
 For Step-By-Step Installation Process Join My Discord Server.
 
