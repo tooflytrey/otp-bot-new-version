@@ -26,7 +26,7 @@ Telegram Channek: https://t.me/+fzkvq8FdnQY2ZmNh
 DM Discord: Coder089#8305
 DM Telegram: @Coder089#83055
 
-#To buy me cofee: 
+#To buy me coffee: 
 
   Ethereum: 0x06F0ff15A132410389C41fd4B52c9E458666F579
   
