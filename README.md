@@ -6,8 +6,12 @@ This OTP Bot is capable of fetching you an OTP code sent to any phone number for
 See the bot in action at: https://ibb.co/t3VGqGv
 
 
-
 Just send command: "/dial" to start grabbing yout OTP.
+
+
+For Step-By-Step Installation Process Join My Discord Server.
+And For more advanced Discord and Telegram Bots.
+
 
 #CONTACT ME
 
@@ -15,11 +19,9 @@ Just send command: "/dial" to start grabbing yout OTP.
 https://discord.gg/ghHtyDevI
 https://t.me/+uftsns3gsKhdLfc1tUy
 
-For Step-By-Step Installation Process Join My Discord Server.
-And For more advanced Discord and Telegram Bots.
-
+NEW Chennel and Server
 Discord Server: https://discord.gg/57kGAfJz
-https://t.me/+fzkvq8FdnQY2ZmNh
+https://t.me/+fzkvq8Fdn
 DM Discord: Coder089#8305
 DM Telegram: @Coder089#83055
 
