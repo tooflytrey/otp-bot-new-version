@@ -18,12 +18,6 @@ And For more advanced Discord and Telegram Bots.
 
 # CONTACT MEontact me
 
-(Old Channels are Banned)
-
-https://discord.gg/ghHtyDevI
-
-https://t.me/+uftsns3gsKhdLfc1tUy
-
 
 # NEW Chennel and Server
 
@@ -34,6 +28,13 @@ Telegram Channek: https://t.me/+fzkvq8FdnQY2ZmNh
 DM Discord: Coder089#8305
 
 DM Telegram: @Coder089#83055
+
+
+(Old Channels are Banned)
+
+https://discord.gg/ghHtyDevI
+
+https://t.me/+uftsns3gsKhdLfc1tUy
 
 
 # Buy me coffee: 
