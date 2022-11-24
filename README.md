@@ -24,7 +24,7 @@ Telegram Channek: https://t.me/+fzkvq8FdnQY2ZmNh
 
 DM Discord: Coder089#8305
 
-DM Telegram: @Coder089#83055
+DM Telegram: @Coder089
 
 
 (Old Channels are Banned)
