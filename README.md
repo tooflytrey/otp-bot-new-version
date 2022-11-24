@@ -8,6 +8,7 @@ See the bot in action at: https://ibb.co/t3VGqGv
 
 Just send command: "/dial" to start grabbing yout OTP.
 
+#THIS SORCE CODE IS FREE AND FOR EDUCATION PURPOSE ONLY.
 
 For Step-By-Step Installation Process Join My Discord Server.
 And For more advanced Discord and Telegram Bots.
@@ -21,11 +22,11 @@ https://t.me/+uftsns3gsKhdLfc1tUy
 
 NEW Chennel and Server
 Discord Server: https://discord.gg/57kGAfJz
-https://t.me/+fzkvq8Fdn
+Telegram Channek: https://t.me/+fzkvq8FdnQY2ZmNh
 DM Discord: Coder089#8305
 DM Telegram: @Coder089#83055
 
-To buy me cofee: 
+#To buy me cofee: 
 
   Ethereum: 0x06F0ff15A132410389C41fd4B52c9E458666F579
   
