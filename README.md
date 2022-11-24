@@ -1,4 +1,4 @@
-# simple-discord-otp-bot
+# Simple Discord OTP Bot
 Simple Discord OPT Bot, working with any company or service name.
 
 This OTP Bot is capable of fetching you an OTP code sent to any phone number for 2FA/MFA verification.
@@ -14,7 +14,7 @@ For Step-By-Step Installation Process Join My Discord Server.
 And For more advanced Discord and Telegram Bots.
 
 
-#CONTACT ME
+# CONTACT ME
 
 (Old Channels are Banned)
 https://discord.gg/ghHtyDevI
