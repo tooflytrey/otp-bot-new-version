@@ -51,4 +51,9 @@ https://t.me/+uftsns3gsKhdLfc1tUy
     Download python and Install
     Unzip Your Bot files
 
+    pip3 install discord
+    pip install Flask
+    pip install discord-py-slash-command
+    pip install twilio
+    
     
