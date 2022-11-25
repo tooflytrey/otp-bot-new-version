@@ -4,7 +4,7 @@ Simple OTP Bot, working with any company or service name.
 
 This OTP Bot is capable of fetching you an OTP code sent to any phone number for 2FA/MFA verification.
 
-See the bot in action at: https://ibb.co/t3VGqGv
+![See the bot in action](https://ibb.co/t3VGqGv)
 
 
 Just send command: "/dial" to start grabbing your OTP.
