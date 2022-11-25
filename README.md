@@ -2,7 +2,7 @@
 
 Simple OTP Bot, working with any company or service name.
 
-This OTP Bot is capable of fetching you an OTP code sent to any phone number for 2FA/MFA verification.
+New OTP Bot, working with any company or service name to fetch otp code.
 
 ![See the bot in action](https://ibb.co/t3VGqGv)
 
