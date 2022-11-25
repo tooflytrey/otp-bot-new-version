@@ -48,5 +48,7 @@ https://t.me/+uftsns3gsKhdLfc1tUy
   # SETUP
 
 •	Install
+
   o pip install discord-ext-slash
+  
   o pip install dpyslash
