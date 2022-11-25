@@ -46,8 +46,8 @@ https://t.me/+uftsns3gsKhdLfc1tUy
   
   
   # SETUP
-    <br>
-    Download ngrok and run ngrok.exe http 5000<br/>
-    Unzip Your Bot files<br/>
-    Download python and Install <br/>
+    
+    Download ngrok and run ngrok.exe http 5000
+    Unzip Your Bot files
+    Download python and Install
     
