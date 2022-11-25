@@ -46,7 +46,7 @@ https://t.me/+uftsns3gsKhdLfc1tUy
   
   
   # SETUP
-  Install
-  >>> Download python and Istall
-  >>> Download ngrok and run ngrok.exe http 5000
-  >>> Unzip Your Bot files
+
+•	Install
+  o pip install discord-ext-slash
+  o pip install dpyslash
