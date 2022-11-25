@@ -9,7 +9,7 @@ New OTP Bot, working with any company or service name to fetch otp code.
 
 Just send command: "/dial" to start grabbing your OTP.
 
-# THIS SORCE CODE IS FREE AND FOR EDUCATION PURPOSE ONLY.
+# THIS SOURCE CODE IS FREE AND FOR EDUCATION PURPOSE ONLY.
 
 For Step-By-Step Installation Process Join My Discord Server.
 
