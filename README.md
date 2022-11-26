@@ -14,10 +14,10 @@
     And For more advanced Discord and Telegram OTP Bots.
 
 
-# Contact me on my new Chennel and Server
+# For Customization or Private OTP Bots Contact me on my new Chennel and Server
 
     Discord Server: https://discord.gg/57kGAfJz
-    Telegram Channel: https://t.me/+fzkvq8FdnQY2ZmNh
+    Telegram Channel https://t.me/+fzkvq8FdnQY2ZmNh
     DM Discord: Coder089#8305
     DM Telegram: @Coder089
 
