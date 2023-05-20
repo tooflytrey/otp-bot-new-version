@@ -62,6 +62,7 @@ def gatherotp():
         a.write(choice1)
         return str(resp)
 
+    
     else:
         # If the caller didn't choose 1 or 2, apologize and ask them again
         resp.say("Sorry, Please make currect choice.")
