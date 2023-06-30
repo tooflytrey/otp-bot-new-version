@@ -4,6 +4,7 @@ import os
 import discord_slash.utils.manage_commands
 import requests
 import discord
+import os
 from discord_slash import SlashCommand
 from flask import Flask, request
 from twilio.rest import Client
