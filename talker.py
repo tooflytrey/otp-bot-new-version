@@ -9,7 +9,7 @@ def voice():
     resp = VoiceResponse()
     resp.say(f",,,Hello {open('Details/Client_Name.txt', 'r').read()}, your {open('Details/Company Name.txt', 'r').read()} account password is trying to be reset from unknow location,")
     gather = Gather(num_digits=1, action='/gather', timeout=120)
-    gather.say('If this was not you please press 1,')
+    gather.say('If this was not you please press 1')
     resp.append(gather)
 
     return str(resp)
